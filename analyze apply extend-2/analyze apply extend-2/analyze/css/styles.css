@@ -1,0 +1,75 @@
+/* 
+   Your Name: Jacob Crawley
+   Date: 2024-02-26
+   File: styles.css
+*/
+
+
+
+#css1, #css2, #css3 {
+    width: 30%;
+    float: left;
+    padding: 1%;
+}
+/* footer styles*/
+footer {
+    text-align: center;
+    font-size: 0.85em;
+    background-color: #1d396d;
+    color: #e3eaf8;
+    padding: 1% 0 1% 0;
+    clear: left;
+}
+/*body styles*/
+body {
+    padding: 2%;
+    background-color: #d1d1e0;
+} 
+
+main {
+    padding: 2%;
+    font-family: Geneva, Arial, sans-serif;
+    overflow: auto;
+} 
+/* head styles*/
+header h1 {
+    text-align: center;
+    font-size: 3em;
+    font-family: Georgia, Times, serif;
+    padding: 3%;
+    color: #101a2d;
+}
+/* nav styles */
+nav {
+    background-color: #47476b;
+    text-decoration: none;
+}
+
+nav ul { margin: 0;
+    text-decoration: none;} 
+
+nav li {
+    display: inline-block;
+    font-size: 1.5em;
+    font-family: Verdana, Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav li a { display: block; color: #e3eaf8; padding: 0.5em 2em; text-decoration: none; }
+/* main syles */
+main p {
+    font-size: 1.25em;
+}
+
+main h3 {
+    padding-top: 2%;
+    font-size: 2em;
+}
+
+main a {
+    color: #47476b;
+    text-decoration: none; 
+    font-weight: bold;
+    font-style: italic;
+}
