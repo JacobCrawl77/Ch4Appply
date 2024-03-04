@@ -1,6 +1,6 @@
 /*
-Author: Maria Cruz
-Date: Current Date
+Author: Jacob Crawley
+Date: 3/4/24
 File Name: styles.css
 */
 
@@ -74,31 +74,31 @@ main a {
 
 
 /* Purple */
-.Purple-hex {
+.purple-hex {
     background-color: #DA70D6; 
 }
 
 
-.Purple-rgb {
+.purple-rgb {
     background-color: rgb(218, 112, 214); 
 }
 
 
-.Purple-hsl {
+.purple-hsl {
     background-color: hsl(302, 59%, 65%); 
 }
 
 /* Green */
-.Green-hex {
+.green-hex {
     background-color: #808000; 
 }
 
 
-.Green-rgb {
+.green-rgb {
     background-color: rgb(128, 128, 0); 
 }
 
 
-.Green-hsl {
+.green-hsl {
     background-color: hsl(60, 100%, 25%); 
 }
